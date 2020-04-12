@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab8Ex2</string>
+    <string name="event_title">Event Title</string>
+    <string name="event_venue">Event Venue</string>
+    <string name="event_date">Event Date</string>
+    <string name="create_event">Create Event</string>
+</resources>
