@@ -1,0 +1,1 @@
+Exercise made from the tutorial found here: https://abhiandroid.com/database/sqlite
